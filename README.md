@@ -3,8 +3,8 @@ Originally made by cazzwastaken (https://github.com/cazzwastaken?tab=repositorie
 ## ☂️ Features
 - Decent ImGui menu with FreeType font rendering
 - Complete .json config system
-- Lots of visuals
-- Basic misc features
+- Lots of visuals (Snaplines, box esp, glow, head dot, etc)
+- Basic misc features (Bhop, FOV changer, etc)
 - Decently clean code (don't roast me)
 - Decent SDK (there is some pretty cool stuff in there)
 - Way more hooks than needed lmao
