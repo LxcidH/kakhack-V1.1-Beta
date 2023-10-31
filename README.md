@@ -1,5 +1,4 @@
 ﻿# 🛰 About
-This is an internal project I was working on about a year ago. The features are incomplete because I spent most of my time reversing interfaces so check out the SDK.
 Originally made by cazzwastaken (https://github.com/cazzwastaken?tab=repositories) however i added a few features and will be continuing to add to this cheat.
 ## ☂️ Features
 - Decent ImGui menu with FreeType font rendering
